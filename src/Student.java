@@ -1,8 +1,8 @@
 public class Student {
-    String name;
-    String lastName;
-    boolean isInRelationship;
-    int age;
+    private String name;
+    private String lastName;
+    private boolean isInRelationship;
+    private int age;
 
     public Student() {
     }

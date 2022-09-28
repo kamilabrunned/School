@@ -1,6 +1,5 @@
 public class Classroom {
-
-    int number;
+    private int number;
 
     public Classroom() {
     }

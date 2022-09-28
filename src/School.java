@@ -1,7 +1,7 @@
 import java.util.List;
 
 public class School {
-    List<Student> students;
-    List<Teacher> teachers;
-    List<Classroom> classrooms;
+    private List<Student> students;
+    private List<Teacher> teachers;
+    private List<Classroom> classrooms;
 }

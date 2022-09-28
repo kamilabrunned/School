@@ -1,9 +1,8 @@
 public class Teacher {
-
-    String name;
-    String lastName;
-    String subject;
-    int age;
+    private String name;
+    private String lastName;
+    private String subject;
+    private int age;
 
     public Teacher() {
     }
